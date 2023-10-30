@@ -1,0 +1,24 @@
+Melakukan git secara live
+git clone #link-github
+git init (Untuk menginiliasisasi)
+git add . (Untuk menambahkan project atau file yang di rubah $"./-A" untuk menambahkan secara keseluruhan jika ingin secara spesifik gunakan nama file)
+git commit -m "Menambahkan project java untuk menghitung volume bola" (Untuk merekam perubahan yang telah di add)
+git git push origin main
+
+
+//Yang lain
+
+git branch patch-1 (Untuk membuat cabang baru)
+git remote add origin #link-github (Mengelolah kumpulan repository yang di lacak)
+git status (Untuk check status)
+git restore (untuk membuang perubahan pada direktori kerja)
+git log (Untuk melihat riwayat commit repository)
+git checkout (Memindahkan branch)
+git pull (Mengambil dari dan integrasikan dengan repository lain atau cabang lokal)
+git switch (Memindah branch)
+
+Catatan git
+git log --all --decorate --oneline --graph
+alias graph="git log --all --decorate --oneline --graph" //digunakan untuk membuat alias graph
+grap digunakan untuk melihat graph
+
