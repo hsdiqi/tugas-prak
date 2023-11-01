@@ -1,5 +1,4 @@
 package upToNewBranch;
 
-public class blu {
-
+public class bolehh {
 }
