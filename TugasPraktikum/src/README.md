@@ -21,7 +21,7 @@ Proyek ini adalah bagian dari tugas atau latihan dalam pemrograman Java. Aplikas
 
 - Proyek ini ditulis oleh Hasbi Ash S. dengan NIM 202210370311391.
 - Aplikasi ini menggunakan konsep dasar pemrograman berorientasi objek (OOP) dalam Java.
-- Rumus yang digunakan untuk menghitung volume bola adalah V = (4/3) * π * r^3, di mana V adalah volume bola, π adalah konstanta Pi (sekitar 3.14159), dan r adalah jari-jari bola.
+- Rumus yang digunakan untuk menghitung volume bola adalah V = (4/3) * π * r^3, di mana V adalah volume bola, π adalah konstanta Pi (sekitar 3.14), dan r adalah jari-jari bola.
 - Aplikasi ini bersifat open-source, jadi Anda dapat memodifikasinya atau menggunakannya sesuai kebutuhan Anda.
 
 Selamat menghitung volume bola menggunakan proyek ini! Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi pengembang proyek😊.
