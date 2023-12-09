@@ -18,4 +18,4 @@ Aplikasi ini adalah sebuah program sederhana yang digunakan untuk menghitung vol
 
 ---
 
-Terima kasih telah menggunakan Aplikasi Penghitung Volume Bola. Jika Anda memiliki pertanyaan atau masukan, silakan hubungi [Hasbi] di [hasbi.a.s345@gmail.com] 😊.
+Terima kasih telah menggunakan Aplikasi Penghitung Volume Bola. Jika Anda memiliki pertanyaan atau masukan, silakan hubungi [Hasbi].
