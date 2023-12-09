@@ -16,10 +16,6 @@ Aplikasi ini adalah sebuah program sederhana yang digunakan untuk menghitung vol
 - Nama: Hasbi Ash S.
 - NIM: 202210370311391
 
-## License
-
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
-
 ---
 
 Terima kasih telah menggunakan Aplikasi Penghitung Volume Bola. Jika Anda memiliki pertanyaan atau masukan, silakan hubungi [Hasbi] di [hasbi.a.s345@gmail.com] 😊.
